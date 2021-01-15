@@ -37,7 +37,7 @@
   <project name="meta-python2" revision="refs/heads/dunfell"  remote="oe" path="poky/meta-python2" />
   <project name="meta-arm" revision="refs/heads/dunfell"  remote="yocto" path="poky/meta-arm" />
   <project name="meta-qt5-extra" revision="refs/heads/master"  remote="qt5-extra" path="poky/meta-qt5-extra" />
-  <project name="meta-ros" revision="5f8eaceece856f892602753d79e9f19920c4d077" remote="ros" path="poky/meta-ros" />
+  <project name="meta-ros" revision="8d69a459d34789bbaa38dbc7fead26ae194b256b" remote="ros" path="poky/meta-ros" />
 
 </manifest>
 
